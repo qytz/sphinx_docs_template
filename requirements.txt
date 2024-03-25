@@ -1,0 +1,11 @@
+sphinx
+myst-parser
+sphinx-autoapi
+sphinx-design
+sphinx-togglebutton
+furo
+shibuya
+piccolo_theme
+sphinx_book_theme
+sphinx-rtd-theme
+sphinxcontrib-mermaid
